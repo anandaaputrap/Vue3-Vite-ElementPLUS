@@ -4,7 +4,7 @@ import { toggleDark } from "~/composables";
 
 <template>
   <el-menu class="el-menu-demo" mode="horizontal">
-    <el-menu-item index="1">Logo Disini</el-menu-item>
+    <el-menu-item index="1">Dashboard</el-menu-item>
     <el-sub-menu index="2">
       <template #title>Menu 1</template>
       <el-menu-item index="2-1">List Data</el-menu-item>
